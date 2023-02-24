@@ -1,4 +1,4 @@
 Utilización para la creación de la página:
 
-bosicons.com -->iconos
+boxicons.com -->iconos
 https://webgradients.com/. -->gradients
