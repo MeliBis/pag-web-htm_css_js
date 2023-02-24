@@ -2,6 +2,7 @@ Utilización para la creación de la página:
 
 boxicons.com -->iconos
 https://webgradients.com/. -->gradients
+Cambiar tamaño de imágen https://picresize.com/
 
 
 ![rsz_1captura_de_pantalla_2023-02-24_a_las_133445](https://user-images.githubusercontent.com/77559097/221276128-5a8e1d83-a9e5-4690-912d-1e233e1e96e8.jpg)
